@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_btn_lookup">Search</string>
+    <string name="main_edit_hint">Enter a GitHub username</string>
+    <string name="main_response_text">GitHub Name: %1$s\nCompany Name: %2$s\nBio: %3$s\nLocation: %4$s\nID: %5$s\nRepositories: %6$s</string>
+    <string name="main_error_text">User not found</string>
+</resources>
